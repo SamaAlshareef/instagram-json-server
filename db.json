@@ -1,0 +1,73 @@
+{
+  "news-feed": [
+    {
+      "id": 1,
+      "name": "Noor Hegazy",
+      "uri": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Amal Elesh",
+      "uri": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823__340.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Ahmed Hossam",
+      "uri": "https://wallpapercave.com/wp/wp2634222.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Manal Ahmed",
+      "uri": "https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2019/07/23090714/nature-1024x682.jpeg"
+    },
+    {
+      "id": 1,
+      "name": "Salma Abdl Maaqsod",
+      "uri": "https://webneel.com/wallpaper/sites/default/files/images/08-2018/3-nature-wallpaper-mountain.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sama Sama",
+      "uri": "https://webneel.com/wallpaper/sites/default/files/images/08-2018/3-nature-wallpaper-mountain.jpg"
+    },
+    {
+      "place": "Cairo",
+      "uri": "https://webneel.com/wallpaper/sites/default/files/images/08-2018/3-nature-wallpaper-mountain.jpg",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$LP2Uib1hY5gG7G8sMv3Y/utwZzxpi0WCXA282Ct3mMEBH7h7Ojlay",
+      "id": 1
+    },
+    {
+      "email": "samaelshareef@gmail.com",
+      "password": "$2a$10$u6M2wITINNhObkl45jG8MO2TdJR32XLrwBVDsI/lqePUXfOgY/iYi",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "place": "Siwa",
+      "uri": "https://www.cairotoptours.com/uploads/pages/slider/170df4c9d689dbeac1366000d02edb3e.jpg"
+    },
+    {
+      "id": 2,
+      "place": "Luxor",
+      "uri": "https://www.traveltoegypt.net/uploads/discover/categories/Luxor%20Attractions_232a7_lg.jpg"
+    },
+    {
+      "id": 3,
+      "place": "Marsa Alam",
+      "uri": "https://www.marsaalamonline.com/images/categories/thumbMd/15896540091aa6f3fdddfc16bfb67a571d1d857837.jpg"
+    },
+    {
+      "place": "Cairo",
+      "uri": "https://webneel.com/wallpaper/sites/default/files/images/08-2018/3-nature-wallpaper-mountain.jpg",
+      "id": 4
+    }
+  ]
+}
