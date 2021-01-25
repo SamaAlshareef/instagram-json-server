@@ -48,6 +48,9 @@
       "id": 2
     }
   ],
+  "profile":[
+    {"name":"Jana Smeth", "email":"jana.smeth@gmail.com", "age":29}
+  ],
   "posts": [
     {
       "id": 1,
