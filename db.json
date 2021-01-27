@@ -2,21 +2,6 @@
   "news-feed": [
     {
       "id": 1,
-      "name": "Noor Hegazy",
-      "uri": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg"
-    },
-    {
-      "id": 1,
-      "name": "Amal Elesh",
-      "uri": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823__340.jpg"
-    },
-    {
-      "id": 1,
-      "name": "Ahmed Hossam",
-      "uri": "https://wallpapercave.com/wp/wp2634222.jpg"
-    },
-    {
-      "id": 1,
       "name": "Manal Ahmed",
       "uri": "https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2019/07/23090714/nature-1024x682.jpeg"
     },
@@ -34,6 +19,36 @@
       "place": "Cairo",
       "uri": "https://webneel.com/wallpaper/sites/default/files/images/08-2018/3-nature-wallpaper-mountain.jpg",
       "id": 6
+    },
+    {
+      "name": "Sama Alshareef",
+      "uri": "https://static.toiimg.com/photo/msid-67586673/67586673.jpg?3918697",
+      "id": 7
+    },
+    {
+      "name": "Sama Alshareef",
+      "uri": "https://miro.medium.com/max/640/1*BMwTY_NuBhZaLpNAg4XEgA.jpeg",
+      "id": 8
+    },
+    {
+      "name": "Sama Alshareef",
+      "uri": "https://icatcare.org/app/uploads/2018/06/Layer-1704-1920x840.jpg",
+      "id": 9
+    },
+    {
+      "name": "Sama Alshareef",
+      "uri": "https://icatcare.org/app/uploads/2018/06/Layer-1704-1920x840.jpg",
+      "id": 10
+    },
+    {
+      "name": "Sama Alshareef",
+      "uri": "https://miro.medium.com/max/640/1*BMwTY_NuBhZaLpNAg4XEgA.jpeg",
+      "id": 11
+    },
+    {
+      "name": "Sama Alshareef",
+      "uri": "https://static.toiimg.com/photo/msid-67586673/67586673.jpg?3918697",
+      "id": 12
     }
   ],
   "users": [
@@ -44,12 +59,21 @@
     },
     {
       "email": "samaelshareef@gmail.com",
-      "password": "$2a$10$u6M2wITINNhObkl45jG8MO2TdJR32XLrwBVDsI/lqePUXfOgY/iYi",
+      "password": "$2a$10$UB0d1nibUNW.ceZi3BKSAe6bz/gQv58XX7tKpXFOuqPw8YjVCAwe6",
       "id": 2
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$L4ThFyzL5tLlWDc7G35Jy.Amn8IWDPVdamensFyHLi5jyL6Zyfb9e",
+      "id": 3
     }
   ],
-  "profile":[
-    {"name":"Jana Smeth", "email":"jana.smeth@gmail.com", "age":29}
+  "profile": [
+    {
+      "name": "Jana Smeth",
+      "email": "jana.smeth@gmail.com",
+      "age": 29
+    }
   ],
   "posts": [
     {
